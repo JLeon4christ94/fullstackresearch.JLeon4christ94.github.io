@@ -1,6 +1,0 @@
-<div class="gamut-1h3qpnn-Box ebnwbv90"><div aria-hidden="true" class="gamut-haybot-Text e8i0p5k0">Overview of the Internet</div><h3 class="gamut-4qgiyu-Text e8i0p5k0">404 Status Code</h3><div><div data-testid="markdown" class="styles_spacing-tight__BpBl3 styles_markdown__AWUAP"><p class="styles_p__rpZ3D">Let’s take a deeper dive into the client-server model through exploring a part of HTTP that you’ve probably seen before: <em>HTTP status codes</em>.</p>
-<p class="styles_p__rpZ3D">When a server responds to a client, the server specifies a status code as a part of the response. Status codes indicate whether or not the HTTP request was successfully completed and if there was an error, they contain some information about the type of error that happened. The status code helps the browser know how to handle the data that was sent back with the response.</p>
-<p class="styles_p__rpZ3D">Review the HTTP statuses below and see if any of them seem familiar.</p>
-<img src="https://content.codecademy.com/programs/code-foundations-path/web-dev-survey/table.svg" alt="a table showing the most common HTTP status codes" class="styles_img__AdU20">
-
-</div></div></div>
